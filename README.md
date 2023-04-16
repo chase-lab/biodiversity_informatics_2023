@@ -10,9 +10,12 @@ Dr. Paola Barajas (paola.barajas@idiv.de); Dr. Shane Blowes (shane.blowes@idiv.d
 Date	Instructor	Topic	Description	Room
 April 17	Jon/Alban.	Introduction to course (morning)/best practices (afternoon)	
 Introduction to the course; best practices and basic principles	(D.2.10, Biozentrum, Weinbergweg 22, 06120 Halle (Saale))
+
 April 24	Shane.	Introduction to models for biodiversity science
 Conceptual overview of different types of models; lab exercises to introduce statistical models for quantifying biodiversity patterns	(D.2.10, Biozentrum, Weinbergweg 22, 06120 Halle (Saale)_
+
 May 1	holiday 	-		
+
 May 8	Kim.	Geospatial data in biodiversity sciences	An introduction to the resources available, and manipulation of biodiversity data	D.2.10, Biozentrum, Weinbergweg 22, 06120 Halle (Saale)
 May 15	Roel	Measuring and comparing biodiversity	Biodiversity can be measured and compared in many different ways. We will go through the basics of species definitions, and how ecologists use this to measure biodiversity. We will then discuss different metrics of biodiversity, and what these numbers can and can not tell us about changes in biodiversity that are currently happening. 	D.2.10, Biozentrum, Weinbergweg 22, 06120 Halle (Saale)
 May 22	Paola	Functional diversity 	Functional diversity is a facet of biodiversity and can be quantified using traits across diverse scales	D.2.10, Biozentrum, Weinbergweg 22, 06120 Halle (Saale)
