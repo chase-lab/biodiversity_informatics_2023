@@ -1,6 +1,6 @@
 # Introduction to Biodiversity Informatics
 
-## Part 1
+## A survey course intended to introduce students to the many different ways that informatics enters into biodiversity resesearch
 ### Instructor: 
 Prof. Jonathan Chase (jonathan.chase@idiv.de)
 
