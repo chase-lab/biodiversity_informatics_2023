@@ -20,6 +20,7 @@ May 8.	Kim.	Geospatial data in biodiversity sciences
 An introduction to the resources available, and manipulation of biodiversity data	(D.2.10, Biozentrum, Weinbergweg 22, 06120 Halle (Saale))
 
 May 15.	Roel.	Measuring and comparing biodiversity	
+
 Biodiversity can be measured and compared in many different ways. We will go through the basics of species definitions, and how ecologists use this to measure biodiversity. We will then discuss different metrics of biodiversity, and what these numbers can and can not tell us about changes in biodiversity that are currently happening. 	(D.2.10, Biozentrum, Weinbergweg 22, 06120 Halle (Saale))
 
 May 22.	Paola.	Functional diversity
