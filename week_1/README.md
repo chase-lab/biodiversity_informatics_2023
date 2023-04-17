@@ -32,3 +32,15 @@ Part II. Lab
 ### Afternoon session
 
 In the afternoon session, we'll introduce R, git, GitHub and basic reproducibility good practices.
+
+Zoom link for afternoon:
+Jonathan Chase is inviting you to a scheduled Zoom meeting.
+
+Topic: Jonathan Chase's Zoom Meeting
+Time: Apr 17, 2023 01:00 PM Amsterdam, Berlin, Rome, Stockholm, Vienna
+
+Join Zoom Meeting
+https://us02web.zoom.us/j/86184679462?pwd=K0N1N3YveTh0V1BLUDgxRTlQb2tZUT09
+
+Meeting ID: 861 8467 9462
+Passcode: 372058
