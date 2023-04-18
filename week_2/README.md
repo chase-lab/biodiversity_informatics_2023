@@ -1,8 +1,11 @@
-## Week 2: (Friday, April 24): Functional ecology & Ecosystem Function
+## Week 2: (Friday, April 24): Introduction to modelling for Biodiversity Science
 
 Instructor: Dr. Shane Blowes (shane.blowes@idiv.de)
 
 ## Morning session
-### Introduction to models for biodiversity science	Conceptual overview of different types of models
+### Introduction to models for Biodiversity Science	
 
-### Lab exercises to introduce statistical models for quantifying biodiversity patterns
+    Conceptual overview of different types of models
+
+## Afternoon session
+### Lab exercises to introduce descriptive models for examining biodiversity patterns
