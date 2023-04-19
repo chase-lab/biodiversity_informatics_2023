@@ -15,3 +15,7 @@ Instructor: Dr. Shane Blowes (shane.blowes@idiv.de)
     The afternoon session will involve computer based exercises. 
     
     Please bring a computer, ideally with R, and the caret package, already installed. 
+
+## Reading list
+Levins, Richard (1966) The strategy of model building in population biology. *American Scientist*.
+Lucas, Tim C. (2020) A translucent box: interpretable machine learning in ecology. *Ecological Monographs*.
