@@ -12,4 +12,6 @@ Instructor: Dr. Shane Blowes (shane.blowes@idiv.de)
 ## Afternoon session
 ### Lab exercises to introduce descriptive models for examining biodiversity patterns
 
-    The afternoon session will involve computer based exercises. Please bring a computer, ideally with R, and the caret package, already installed. 
+    The afternoon session will involve computer based exercises. 
+    
+    Please bring a computer, ideally with R, and the caret package, already installed. 
