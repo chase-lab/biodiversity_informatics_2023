@@ -18,4 +18,5 @@ Instructor: Dr. Shane Blowes (shane.blowes@idiv.de)
 
 ## Reading list
 Levins, Richard (1966) The strategy of model building in population biology. *American Scientist*.
+
 Lucas, Tim C. (2020) A translucent box: interpretable machine learning in ecology. *Ecological Monographs*.
