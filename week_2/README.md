@@ -7,14 +7,14 @@ Instructor: Dr. Shane Blowes (shane.blowes@idiv.de)
 
     Conceptual overview of different types of models
     
-    The morning session will be a mixture of lectures, discussion and demonstration.
+    The morning session will be a mixture of presentation, discussion and demonstration.
 
 ## Afternoon session
 ### Lab exercises to introduce descriptive models for examining biodiversity patterns
 
     The afternoon session will involve computer based exercises. 
     
-    Please bring a computer, ideally with R, and the caret package, already installed. 
+    Please bring a computer, ideally with R (and maybe Rstudio) already installed. 
 
 ## Reading list
 Levins, Richard (1966) The strategy of model building in population biology. *American Scientist*.
