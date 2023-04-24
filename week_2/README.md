@@ -16,7 +16,15 @@ Instructor: Dr. Shane Blowes (shane.blowes@idiv.de)
     
     Please bring a computer, ideally with R (and maybe Rstudio) already installed. 
 
+    Links to machine learning resources:
+    
+    https://bookdown.org/rehk/stm1001_dsm_introduction_to_machine_learning_in_r/overview.html
+    
+    https://lgatto.github.io/IntroMachineLearningWithR/index.html
+    
+    
 ## Reading list
 Levins, Richard (1966) The strategy of model building in population biology. *American Scientist*.
 
 Lucas, Tim C. (2020) A translucent box: interpretable machine learning in ecology. *Ecological Monographs*.
+
