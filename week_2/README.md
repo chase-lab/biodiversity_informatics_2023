@@ -28,3 +28,4 @@ Levins, Richard (1966) The strategy of model building in population biology. *Am
 
 Lucas, Tim C. (2020) A translucent box: interpretable machine learning in ecology. *Ecological Monographs*.
 
+Pichler, M., Hartig, F. (2023) Machine learning and deep learning - A review for ecologists. *Methods in Ecology and Evolution* 

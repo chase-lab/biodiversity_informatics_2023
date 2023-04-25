@@ -7,11 +7,11 @@
 rm(list=ls())
 
 library(tidyverse)
+# 2D measurements of two flower traits for three plant species
 data(iris)
 str(iris)
-
+# have a look
 head(iris)
-
 
 ggplot() +
   geom_point(data = iris,
@@ -23,17 +23,20 @@ ggplot() +
              aes(x = Petal.Length, y = Petal.Width,
                  colour = Species))
 
-# k-means clustering
+# k-means clustering using one dimension of two traits (sepal and petal length)
 i <- grep("Length", names(iris))
 x <- iris[, i] # df[row, column]
+# fit clustering algorithm to identify 3 centers
 cl <- kmeans(x, centers = 3, nstart = 10)
+# model output (colour represents labels assigned by the model to each data point)
 plot(x, col = cl$cluster)
 
 length(iris$Species)
 length(cl$cluster)
 
-# check if cluster algorithm identified match known species labels
+# check if predictions from the model match known species labels
 check <- bind_cols(species = iris$Species,
+                   # numeric labels for predicted values
                    predicted_species = cl$cluster)
 
 # all setosa are in cluster 3
@@ -44,11 +47,13 @@ check %>%
   summarise(n())
 
 # in-sample and out-of-sample prediction using supervised learning
+# https://topepo.github.io/caret/ (vast resource for machine learning models)
+# see also, Lucas 2020 Ecological Monographs
 library(caret)
-
+# valuable rock data
 data(diamonds)
-
 str(diamonds)
+
 ggplot() +
   geom_boxplot(data = diamonds,
                aes(x = cut, y = price)) +
@@ -87,7 +92,7 @@ rmse_out
 
 # predicting penguin species using gender, and two traits (flipper length, 
 # body mass)
-install.packages('palmerpenguins')
+# install.packages('palmerpenguins')
 library(palmerpenguins)
 
 head(penguins)
@@ -106,7 +111,8 @@ dummy_penguins <- dummyVars(species ~ ., data = ml_penguins)
 
 # Use the predict function to update our ml_penguins feature
 # variables with sex dummy variables
-ml_penguins_updated <- as_tibble(predict(dummy_penguins, newdata = ml_penguins))
+ml_penguins_updated <- predict(dummy_penguins, newdata = ml_penguins) %>% 
+  as_tibble
 
 # Prepend the outcome variable to our updated data set, otherwise it will be lost
 ml_penguins_updated <- cbind(species = ml_penguins$species, ml_penguins_updated)
