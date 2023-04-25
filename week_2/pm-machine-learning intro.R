@@ -37,16 +37,11 @@ check <- bind_cols(species = iris$Species,
                    predicted_species = cl$cluster)
 
 # all setosa are in cluster 3
-check %>% 
-  filter(species=='setosa' & predicted_species==2)
-
 # 45 versicolor were labelled species 1, four were labelled 2, one labelled 3
+# 13 viginica were mislabelled as 1's (rest are 3's)
 check %>% 
-  filter(species=='versicolor' & predicted_species!=3)
-
-# 13 viginica were mislabelled as 1's
-check %>% 
-  filter(species=='virginica' & predicted_species!=1)
+  group_by(species, predicted_species) %>% 
+  summarise(n())
 
 
 # in-sample and out-of-sample prediction using supervised learning
