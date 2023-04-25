@@ -43,7 +43,6 @@ check %>%
   group_by(species, predicted_species) %>% 
   summarise(n())
 
-
 # in-sample and out-of-sample prediction using supervised learning
 library(caret)
 
@@ -55,8 +54,10 @@ ggplot() +
                aes(x = cut, y = price)) +
   scale_y_continuous(trans = 'log10')
 
+# fit linear model with all available predictor variables (no interactions)
 model <- lm(price ~ ., diamonds)
 
+# make predictions with fitted model
 p <- predict(model, diamonds)
 
 # visualise model fit 
@@ -68,8 +69,6 @@ rmse_in <- sqrt(mean(error^2)) ## in-sample RMSE
 rmse_in
 
 # set seed initialises the random number generator
-# hopefully making results reproducible when randomness
-# is involved
 set.seed(42)
 # want to fit model to 80% of data
 ntest <- nrow(diamonds) * 0.50
