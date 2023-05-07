@@ -2,4 +2,4 @@
 
 Instructor: Dr. Kim Thompson (kimberly.thompson@idiv.de)
 
-### Geospatial / maybe JSDMs
+### Species Distribution Models
