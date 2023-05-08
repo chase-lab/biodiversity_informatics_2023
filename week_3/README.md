@@ -23,3 +23,6 @@ Instructor: Dr. Kim Thompson (kimberly.thompson@idiv.de)
     The afternoon session will involve computer-based exercises. 
     
     Please bring a computer, ideally with Rstudio already installed. 
+
+## Troubleshooting
+https://github.com/belg92/HMSC/issues/2
