@@ -181,7 +181,7 @@ mean(jac)
 
 # exercise 4: 
 # visualizing pairwise dissimilarities
-metaMDS(abundMatrix2, plot = T)
+nmds<- metaMDS(dune, plot = T)
 #not much to be seen here, except that the distances are almost the same. 
 #this is logical because we randomly generated data. no pattern is to be expected
 
@@ -189,6 +189,19 @@ metaMDS(abundMatrix2, plot = T)
 # better examples are available in the vegan package:
 ?metaMDS
 
+# the vegan help page on ordinations is very helpful: 
+https://cran.r-project.org/web/packages/vegan/vignettes/intro-vegan.pdf
+
+
+nmds<- metaMDS(dune, plot = T)
+sitescores<- scores(nmds)[[1]]
+ggplot(as.data.frame(sitescores), aes(x = NMDS1, y = NMDS2))+
+       geom_point()
+
+
 # fitting environmental variables to the ordination
 ?envfit
+
+# visualizing site clustering (similar sites cluster together) 
+?ordispider
 
