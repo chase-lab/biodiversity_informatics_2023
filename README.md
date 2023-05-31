@@ -21,9 +21,9 @@ An introduction to the resources available, and manipulation of biodiversity dat
 
 May 15.	Roel.	Measuring and comparing biodiversity	
 
-Biodiversity can be measured and compared in many different ways. We will go through the basics of species definitions, and how ecologists use this to measure biodiversity. We will then discuss different metrics of biodiversity, and what these numbers can and can not tell us about changes in biodiversity that are currently happening. 	(D.2.10, Biozentrum, Weinbergweg 22, 06120 Halle (Saale))
+Biodiversity can be measured and compared in many different ways. We will go through the basics of species definitions, and how ecologists use this to measure biodiversity. We will then discuss different metrics of biodiversity, and what these numbers can and can not tell us about changes in biodiversity that are currently happening. 	Online, because of the DB strike: https://us02web.zoom.us/j/84649832534?pwd=a2dHaXd4bmVFR3RuU1BmeElaNWxiQT09
 
-May 22.	Paola.	Functional diversity
+May 22.	Paola.	Functional diversity.
 Functional diversity is a facet of biodiversity and can be quantified using traits across diverse scales	(D.2.10, Biozentrum, Weinbergweg 22, 06120 Halle (Saale))
 
 May 29.	holiday  	-		
