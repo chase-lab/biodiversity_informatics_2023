@@ -32,3 +32,17 @@ library(tidyverse)
  rest_data %>% select(HabitatCat, DisturbCat) %>% distinct()
 
 
+nrow(rest_data)
+
+ ggplot(data=rest_data, aes(x = fct_infreq(DisturbCat))) +
+   geom_bar(aes(color = DisturbCat), fill="white", stat='count') +
+   theme_classic()
+
+
+
+
+
+
+
+
+
