@@ -6,7 +6,7 @@ Instructor: Dr Emma Ladouceur (emma.ladouceur@idiv.de)
 
 - What is ecosystem functioning and why do we care
 - What are the measures and informatics available to us to measure ecosystems?
-- Ecological restoration: measuring ecosystems, ecosystem informatics
+- Ecological restoration: why the informatics we use matter for ecosystems
 
 ### Afternoon session:  Biodiversity data management, databases and open science (12:30-15:00)
 - Open science
