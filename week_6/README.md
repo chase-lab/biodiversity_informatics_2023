@@ -1,4 +1,4 @@
-## Week 6: (Monday, June 5th): Biodiversity data	Biodiversity data management, databases, and open science
+## Week 6: (Monday, June 5th): Biodiversity data management, databases, and open science
 
 Instructor: Dr Emma Ladouceur (emma.ladouceur@idiv.de)
 
