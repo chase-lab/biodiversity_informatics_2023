@@ -14,3 +14,5 @@ Instructor: Dr Wubing Xu (wubing.xu@idiv.de)
 - Database of species distributions
 - Lab exercises: use IUCN range maps and GBIF occurrences
 - Please bring a computer with R and Rstudio
+
+### Zoom link: https://uni-leipzig.zoom.us/j/66643549145?pwd=UDd4aEl0aXUwUTBRanRwamFJOVpRQT09 
