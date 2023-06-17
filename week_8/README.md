@@ -8,6 +8,7 @@ Instructor: Dr Zachary Hajian-Forooshani (zhajianf@gmail.com)
 
 * Exponential growth - background and computer exercise
 * Logistic growth - background, intuition for density dependence and computer exercises  
+
       Exercise 1: Implementing the logistic map
       Exercise 2: Qualitative model behavior with lambda  
       Exercise 3: Long term behavior and sensitivity on initial conditions  
