@@ -2,6 +2,7 @@
 
 Instructor: Dr Zachary Hajian-Forooshani (zhajianf@gmail.com)
 
-### Morning session
+### Morning session (10 - 12)
 
-### Afternoon session
+
+### Afternoon session (12:30 - 4)
