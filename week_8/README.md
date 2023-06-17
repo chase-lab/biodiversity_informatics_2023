@@ -5,9 +5,9 @@ Instructor: Dr Zachary Hajian-Forooshani (zhajianf@gmail.com)
 
 ## Foundational models of ecological systems (10:00 - 15:00)
 
-# Exponential growth: Ecological justification and implementation 
+#### Exponential growth: Ecological justification and implementation 
       
-# Logistic growth: background, intuition for density dependence and computer exercises  
+#### Logistic growth: background, intuition for density dependence and computer exercises  
       -Exercise 1: Implementing the logistic map
       -Exercise 2: Qualitative model behavior with lambda  
       -Exercise 3: Long term behavior and sensitivity on initial conditions  
