@@ -1,4 +1,4 @@
-## Week 8: (Friday, June 19th): Modeling dynamics from populations to metacommunities
+## Week 8: (Monday, June 19th): Modeling dynamics from populations to metacommunities
 
 Instructor: Dr Zachary Hajian-Forooshani (zhajianf@gmail.com)
 
