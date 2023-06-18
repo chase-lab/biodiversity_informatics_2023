@@ -14,7 +14,7 @@ Instructor: Dr Zachary Hajian-Forooshani (zhajianf@gmail.com)
       
       Veritasium video on logistic equation: https://www.youtube.com/watch?v=ovJcsL7vyrk 
       
-#### Topic 3: Forms of population regulation - the predator-prey model
+#### Topic 3: Other forms of population regulation - the predator-prey model
       - Exercise 1: Deriving predator-prey model from exponential growth equation
       - Exercise 2: Implementing predator-prey model
       - Exercise 3: Qualitative behavior and the addition of density dependce on the prey population
